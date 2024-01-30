@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import "./globals.css";
+import "../globals.css";
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import HeadNav from "@/components/home/headNav";
 import FooterNav from "@/components/home/footer";
